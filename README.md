@@ -42,3 +42,10 @@ No additional configuration required.
 ## License
 
 MIT
+
+## Related Hermes Skills
+- [hermes-airtable](https://github.com/Marrowleaf/hermes-airtable) — Airtable integration and automation
+- [hermes-budget-tracker](https://github.com/Marrowleaf/hermes-budget-tracker) — Personal budget tracking and analysis
+- [hermes-consensus-engine](https://github.com/Marrowleaf/hermes-consensus-engine) — Multi-model consensus and decision engine
+- [hermes-notion](https://github.com/Marrowleaf/hermes-notion) — Notion integration and management
+- [hermes-ocr-and-documents](https://github.com/Marrowleaf/hermes-ocr-and-documents) — OCR and document processing
